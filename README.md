@@ -30,3 +30,9 @@ A simple console-based number guessing game written in Java. The program randoml
 ```bash
 git clone https://github.com/your-username/guess-number-java.git
 cd guess-number-java
+
+2. Compile the Code
+javac GuessGame.java
+
+3. Run the Program
+java GuessGame
